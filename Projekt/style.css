@@ -1,0 +1,278 @@
+body{
+margin: 0;
+}
+span{
+color: red;
+}
+.zakładka_section1{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+ul {
+display: flex;
+list-style: none;
+margin: 0;
+}
+
+header{
+flex-basis: 30%;
+}
+menu{
+flex-basis: 70%;
+}
+ul li {
+margin-left: 10px;
+}
+#kolor a{
+background-color: blue;
+}
+.middle_section1{
+display: flex;
+width: 100%;
+justify-content: center;
+}
+.middle_section1 button{
+background-color: red;
+color: white;
+}
+.section1{
+background-image: url("tło.jpg");
+color: white;
+height: 800px;
+}
+.middle_section1 .photo_section1{
+width: 40%;
+height: 40%;
+padding: 10%;
+}
+#button{
+color: red;
+background-color: black;
+}
+a {
+color: white;
+}
+.text_section1{
+padding: 10%;
+}
+.section2 h2{
+display: flex;
+justify-content: center;
+}
+.text p {
+display: flex;
+justify-content: center;
+}
+.middle_section2{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+width: 70%;
+text-align: center;
+}
+.middle_section2 div{
+width: 25%;
+border: 1px solid black;
+padding: 20px;
+margin-bottom: 20px;
+}
+.section2{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.section2 span{
+color: blue;
+}
+.section2{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.section3 h3{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.text_section3{
+    display: flex;
+    justify-content: center;
+}
+.section3{
+    background-color: grey;
+}
+.zakładki_section3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.zakładki_section3 a:hover {
+    background-color: blueviolet;
+    border: 3px solid black;
+   
+
+}
+.middle_section3{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.middle_section3 div{
+    width: 30%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   border: 2px solid black;
+  
+
+}
+.middle_section3 img{
+    width: 200px;
+}
+.middle_section3 button{
+    padding: 15px 15px;
+    background: rgb(94, 94, 255);
+    color: white;
+    text-align: center;
+    top: 0%;
+    left : 0%;
+    transform: translate(-30%,-49px);
+}
+.sekcja4 h2:nth-child(1){
+    display: flex;  
+    justify-content: center;
+    color:orange;
+}
+.sekcja4 h3{
+    display: flex;
+    justify-content: center;
+}
+.sekcja4 img{
+    width: 300px;
+}
+.srodek_sekcja4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ 
+}
+.srodek_sekcja4 div{
+    width: 20%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.srodek_sekcja4 div a {
+    color: purple;
+}
+#autor{
+    width: 15px;
+    height: 15px;
+}
+.srodek_sekcja4 div a{
+    color: blue;
+}
+#autor2{
+    width: 15px;
+    height: 15px;
+}
+#guzik
+{width: 15px;
+height: 15px;
+}
+.section5 header{
+    display: flex;
+    justify-content: center;
+}
+.section5 p:nth-child(1){
+    display: flex;
+    justify-content: center;
+
+}
+.section5 h2{
+    display: flex;
+    justify-content: center;
+}
+.section5 h4{
+    display: flex;
+    justify-content: center;
+}
+.formularz_section5{
+    display: flex;
+    justify-content: center;
+}
+.adres{
+    background-color: blue;
+    color: white;
+}
+.section5 button{
+    background-color: black;
+    color: white;
+}
+.section7{
+    background-color: grey;
+    color: white;
+}
+.ikonki_section7{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 10%;
+}
+.Services{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.Contacts{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.section7{
+    display: flex;
+    justify-content: center;
+}
+.sociale{
+    display: flex;
+}
+#fb{
+    height: 20px;
+    width: 20px;
+}
+#ig{
+    height: 20px;
+    width: 20px;
+}
+#tw{
+    height: 20px;
+    width: 20px;
+}
+.middle_section3 div h2{
+    color: red;
+}
+.section7 h2{
+    color: red;
+}
+#pierwsza_strona{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.dół{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
